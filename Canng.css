@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: none;
+}
+body{
+    width: auto;
+    height: 1000px;
+    background: rgb(164,234,239);
+    background: linear-gradient(180deg, rgba(164,234,239,1) 26%, rgba(244,172,238,1) 100%);
+}
+#Canngu{
+    
+    text-justify: center;
+    text-align: center;
+
+}
